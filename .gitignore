@@ -1,4 +1,18 @@
+# Python
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+
+# Virtual environment
 .env
-*.pyc
+.venv/
+venv/
+
+# System
 .DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
